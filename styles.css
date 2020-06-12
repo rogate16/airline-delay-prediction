@@ -1,0 +1,32 @@
+header{
+  color: black;
+}
+
+body{ 
+      font-size: 12px;
+      font-family: "Times New Roman", Times, serif;
+  }
+td {
+  font-size: 15px;
+}
+h1.title {
+  font-size: 35px;
+  color: #1C2C5B;
+  font-style: bold;
+}
+h1 {
+  font-size: 20px;
+  color: #6CABDD;
+}
+h2 {
+    font-size: 15px;
+  color: Green;
+}
+code.r{
+    font-size: 12px;
+    font-style: bold;
+}
+pre {
+    font-size: 12px;
+    font-style: bold;
+}
